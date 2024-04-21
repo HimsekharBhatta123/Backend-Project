@@ -6,8 +6,10 @@
   "type": "module",
   "scripts": {
     "start": "nodemon src/index.js"
-
   },
   "author": "Himsekhar Bhatta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
